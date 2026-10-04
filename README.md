@@ -6,5 +6,5 @@ The repository was actively used during development and competition for testing,
 Previous code used still exist. Micromouse_C_code3 was the one used for the competition.
 
 Below is an image of our Mircomouse.
-<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/cb62d371-f0d1-4a5b-9522-f4b3fb0a978b" />
+<img width="576" height="768" alt="image" src="https://github.com/user-attachments/assets/cb62d371-f0d1-4a5b-9522-f4b3fb0a978b" />
 
