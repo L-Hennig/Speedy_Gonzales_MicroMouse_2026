@@ -3,7 +3,7 @@ Speedy Gonzales
 This repository contains the code, hardware files, and documentation for the Micromouse robot developed for the 2026 Semester 2 UQMARS Micromouse Competition.
 
 The repository was actively used during development and competition for testing, iteration, and file management. This README provides an overview of the robot design, hardware modifications, and software architecture.
-Previous code used still exist. Micromouse_C_code3 was the one used for the competition.
+Previous code used still exist. Micromouse_C_code4 was the one used for the competition.
 
 Below is an image of our Micromouse:
 
